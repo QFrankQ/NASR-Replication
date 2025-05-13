@@ -13,7 +13,6 @@
 
 
 # Change to the directory where the code is located
-cd /home/fchiu_umass_edu/NASR-main
 
 # Activate the conda environment
 #module load miniconda/22.11.1-1
